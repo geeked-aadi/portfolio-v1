@@ -1,0 +1,28 @@
+
+> aditya-aradhya-portfolio@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+Compiled successfully.
+
+File sizes after gzip:
+
+  137.6 kB (-6 B)  build/static/js/main.7e59b320.js
+  3.18 kB (-5 B)   build/static/css/main.23f0c9d1.css
+  1.79 kB          build/static/js/453.0b10f59c.chunk.js
+
+The project was built assuming it is hosted at ./.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
