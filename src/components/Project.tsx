@@ -1,7 +1,7 @@
 import React from "react";
 import portfolioImage from '../assets/images/portfolio-v1.png';
 import skillSwapImage from '../assets/images/skillswap.jpg';
-import traxnLabsImage from '../assets/images/traxnlabs.jpg';
+import traxnLabsImage from '../assets/images/traxnlabs.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
