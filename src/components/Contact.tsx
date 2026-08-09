@@ -9,6 +9,7 @@ import Snackbar from '@mui/material/Snackbar';
 import Alert from '@mui/material/Alert';
 
 const WEB3FORMS_ACCESS_KEY = process.env.REACT_APP_WEB3FORMS_ACCESS_KEY || '';
+console.log(process.env.REACT_APP_WEB3FORMS_ACCESS_KEY);
 
 function Contact() {
   const [name, setName] = useState<string>('');
