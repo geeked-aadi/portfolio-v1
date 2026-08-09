@@ -18,8 +18,33 @@
     color: white;
   }
 
-  fieldset {
+  .MuiOutlinedInput-root {
     background-color: white;
+  }
+
+  .MuiInputBase-input {
+    color: #0d1116;
+  }
+
+  .MuiInputLabel-root {
+    color: #0d1116;
+  }
+
+  .MuiInputLabel-root.Mui-focused {
+    color: #5000ca;
+  }
+
+  .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(13, 17, 22, 0.35);
+  }
+
+  .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline,
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #5000ca;
+  }
+
+  .MuiInputBase-input::placeholder {
+    color: rgba(13, 17, 22, 0.6);
   }
 }
 
